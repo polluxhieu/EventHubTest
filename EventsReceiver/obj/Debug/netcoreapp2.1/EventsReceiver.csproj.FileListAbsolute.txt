@@ -1,0 +1,11 @@
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\EventsReceiver.deps.json
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\EventsReceiver.runtimeconfig.json
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\EventsReceiver.runtimeconfig.dev.json
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\EventsReceiver.dll
+E:\test_projects\Azure\EventsSender\EventsReceiver\obj\Debug\netcoreapp2.1\EventsReceiver.csproj.CoreCompileInputs.cache
+E:\test_projects\Azure\EventsSender\EventsReceiver\obj\Debug\netcoreapp2.1\EventsReceiver.AssemblyInfoInputs.cache
+E:\test_projects\Azure\EventsSender\EventsReceiver\obj\Debug\netcoreapp2.1\EventsReceiver.AssemblyInfo.cs
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\EventsReceiver.pdb
+E:\test_projects\Azure\EventsSender\EventsReceiver\obj\Debug\netcoreapp2.1\EventsReceiver.dll
+E:\test_projects\Azure\EventsSender\EventsReceiver\obj\Debug\netcoreapp2.1\EventsReceiver.pdb
+E:\test_projects\Azure\EventsSender\EventsReceiver\bin\Debug\netcoreapp2.1\appsettings.json

@@ -1,0 +1,12 @@
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\EventsSender.deps.json
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\EventsSender.runtimeconfig.json
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\EventsSender.runtimeconfig.dev.json
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\EventsSender.dll
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.csproj.CoreCompileInputs.cache
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.AssemblyInfoInputs.cache
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.AssemblyInfo.cs
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\appsettings.json
+E:\test_projects\Azure\EventsSender\EventsSender\bin\Debug\netcoreapp2.1\EventsSender.pdb
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.dll
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.pdb
+E:\test_projects\Azure\EventsSender\EventsSender\obj\Debug\netcoreapp2.1\EventsSender.csprojAssemblyReference.cache
